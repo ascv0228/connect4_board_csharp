@@ -1,0 +1,10 @@
+D:\Code\GUI\connect\bin\Debug\connect.exe.config
+D:\Code\GUI\connect\bin\Debug\connect.exe
+D:\Code\GUI\connect\bin\Debug\connect.pdb
+D:\Code\GUI\connect\obj\Debug\connect.csprojAssemblyReference.cache
+D:\Code\GUI\connect\obj\Debug\connect.Form1.resources
+D:\Code\GUI\connect\obj\Debug\connect.Properties.Resources.resources
+D:\Code\GUI\connect\obj\Debug\connect.csproj.GenerateResource.cache
+D:\Code\GUI\connect\obj\Debug\connect.csproj.CoreCompileInputs.cache
+D:\Code\GUI\connect\obj\Debug\connect.exe
+D:\Code\GUI\connect\obj\Debug\connect.pdb
